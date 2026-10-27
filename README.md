@@ -1,2 +1,2 @@
 # IT
-โปรเจ๊ก 
+Mini inventory management system DevOps project
